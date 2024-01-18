@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example Application 01182024</string>
+    <string name="button_text">Click Me!</string>
+    <string name="field_hint">Enter your text here…</string>
+</resources>
